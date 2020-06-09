@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Rsrc-Class-Path: ./ jfxrt.jar org.apache.commons.collections.jar httpc
- ore-4.4.3.jar httpclient-4.5.1.jar commons-logging-1.2.jar weblogic.j
- ar
-Class-Path: .
-Rsrc-Main-Class: serialize.Frame.MainFrame
-Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
-
