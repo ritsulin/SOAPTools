@@ -36,3 +36,8 @@ PS. You can use manual shell code and just type it the middle frame.
 2. **當前目錄** shows the current path.
 3. Click the **列目錄** button will list the files of the path.
 4. Click the **清空** button will clear the list.
+
+
+
+### JavaDeserH2HC
+#### Please see the README.md in JavaDeserH2HC folder
