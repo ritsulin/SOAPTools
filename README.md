@@ -1,10 +1,19 @@
-# POC of Java SOAP
+# PoC of JBoss JMXInvokerServlet Deserialize
+
+## Test Envirment(JBOSS AS 4.0.5)
+
+* Start envirment by docker
+
+```
+docker-compose up -d
+```
 
 ## DeserializeExploit.jar
-### Supported product
-1. JBOSS
-2. WebLogic
-3. WebSphere
+### Supported
+1. JBOSS 
+2. WebLogic 
+3. WebSphere 
+
 
 ### Basic using step
 
@@ -40,4 +49,4 @@ PS. You can use manual shell code and just type it the middle frame.
 
 
 ### JavaDeserH2HC
-#### Please see the README.md in JavaDeserH2HC folder
+#### Please reference the README.md in JavaDeserH2HC folder
