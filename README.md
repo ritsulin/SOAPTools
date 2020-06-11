@@ -18,6 +18,7 @@ docker-compose up -d
 ### Basic using step
 
 1. Select Target's SOAP type (JBOSS, WebLogic, WebSphere)
+   *If you use the test envirment, please select JBOSS)
 2. Paste the target URL in **目標**
 3. Click the **獲取信息** button.
 4. If it's successful, the frame will show the information of target.
